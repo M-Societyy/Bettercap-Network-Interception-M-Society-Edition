@@ -354,7 +354,7 @@ Proyecto desarrollado por:
                             Ù$$ëÜ                                   Ù$ëë                            
                                ÙÜÜÙ                              ÙÜ$Ù                               
                                  éëÜÜë                        d$$dÙ                                 
-                                     $                                                                                                                                  
+                                              M-Society                                                                                                    
 ```
 Investigación: **M-Society CyberSec Division**
 
